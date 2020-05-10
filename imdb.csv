@@ -1,0 +1,51 @@
+,Movie,Year,Rating,Metascore,Runtime,Type
+0,Fight Club,(1999),8.8,66        ,139 min,Drama            
+1,Pulp Fiction,(1994),8.9,94        ,154 min,Crime Drama            
+2,Se7en,(1995),8.6,65        ,127 min,Crime Drama Mystery            
+3,The Godfather,(1972),9.2,100        ,175 min,Crime Drama            
+4,The Departed,(2006),8.5,85        ,151 min,Crime Drama Thriller            
+5,The Bourne Ultimatum,(2007),8,85        ,115 min,Action Mystery Thriller            
+6,The Dark Knight,(2008),9,84        ,152 min,Action Crime Drama            
+7,The Shawshank Redemption,(1994),9.3,80        ,142 min,Drama            
+8,Sin City,(2005),8,74        ,124 min,Crime Thriller            
+9,American History X,(1998),8.5,62        ,119 min,Drama            
+10,The Godfather: Part II,(1974),9,90        ,202 min,Crime Drama            
+11,Alien,(1979),8.4,89        ,117 min,Horror Sci-Fi            
+12,Aliens,(1986),8.3,84        ,137 min,Action Adventure Sci-Fi            
+13,The Lord of the Rings: The Fellowship of the Ring,(2001),8.8,92        ,178 min,Action Adventure Drama            
+14,The Lord of the Rings: The Two Towers,(2002),8.7,87        ,179 min,Adventure Drama Fantasy            
+15,The Lord of the Rings: The Return of the King,(2003),8.9,94        ,201 min,Adventure Drama Fantasy            
+16,The Bourne Identity,(2002),7.9,68        ,119 min,Action Mystery Thriller            
+17,The Bourne Supremacy,(2004),7.7,73        ,108 min,Action Mystery Thriller            
+18,Spider-Man,(2002),7.3,73        ,121 min,Action Adventure Sci-Fi            
+19,X: First Class,(2011),7.7,65        ,131 min,Action Adventure Sci-Fi            
+20,X-Men: Days of Future Past,(2014),8,75        ,132 min,Action Adventure Sci-Fi            
+21,The Prestige,(2006),8.5,66        ,130 min,Drama Mystery Sci-Fi            
+22,Memento,(2000),8.4,80        ,113 min,Mystery Thriller            
+23,L.A. Confidential,(1997),8.2,90        ,138 min,Crime Drama Mystery            
+24,The Deer Hunter,(1978),8.1,86        ,183 min,Drama War            
+25,Mystic River,(2003),7.9,84        ,138 min,Crime Drama Mystery            
+26,The Wolf of Wall Street,(2013),8.2,75        ,180 min,Biography Crime Drama            
+27,The Butterfly Effect,(2004),7.6,74        ,113 min,Drama Sci-Fi Thriller            
+28,Source Code,(2011),7.5,97        ,93 min,Action Drama Mystery            
+29,Psycho,(1960),8.5,64        ,109 min,Horror Mystery Thriller            
+30,American Psycho,(2000),7.6,68        ,101 min,Comedy Crime Drama            
+31,Requiem for a Dream,(2000),8.3,72        ,102 min,Drama            
+32,50/50,(2011),7.6,70        ,100 min,Comedy Drama Romance            
+33,Rocky,(1976),8.1,71        ,120 min,Drama Sport            
+34,Warrior,(2011),8.2,95        ,140 min,Drama Sport            
+35,The Social Network,(2010),7.7,67        ,120 min,Biography Drama            
+36,Gladiator,(2000),8.5,72        ,155 min,Action Adventure Drama            
+37,Match Point,(2005),7.6,61        ,124 min,Drama Romance Thriller            
+38,The Green Mile,(1999),8.6,64        ,189 min,Crime Drama Fantasy            
+39,The Sixth Sense,(1999),8.1,62        ,107 min,Drama Mystery Thriller            
+40,Unbreakable,(2000),7.3,67        ,106 min,Drama Mystery Sci-Fi            
+41,In Bruges,(2008),7.9,76        ,107 min,Comedy Crime Drama            
+42,(500) Days of Summer,(2009),7.7,95        ,95 min,Comedy Drama Romance            
+43,Zero Dark Thirty,(2012),7.4,69        ,157 min,Drama History Thriller            
+44,[Rec],(2007),7.4,82        ,78 min,Adventure Horror Mystery            
+45,Saw,(2004),7.6,90        ,103 min,Horror Mystery            
+46,Short Term 12,(2013),8,76        ,96 min,Drama            
+47,Goodfellas,(1990),8.7,,146 min,Biography Crime Drama            
+48,Star Wars: Episode VI - Return of the Jedi,(1983),8.3,,131 min,Action Adventure Fantasy            
+49,Superbad,(2007),7.6,,113 min,Comedy            
